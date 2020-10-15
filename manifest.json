@@ -1,0 +1,15 @@
+{
+	"name": "Chrome_App",
+	"version": "0.1",
+	"manifest_version": 2,
+	"description": "DESCRIPTION",
+	"app": {
+        	"urls": ["file:///home/chronos/u-89fa852ef72b5685d3627bbe15095429dfd03b81/MyFiles/text/index.html"],
+        	"launch": {
+            		"web_url": "file:///home/chronos/u-89fa852ef72b5685d3627bbe15095429dfd03b81/MyFiles/text/index.html"
+        	}
+    	},
+	"icons": {
+		"128": "icon.png"
+	}
+}
